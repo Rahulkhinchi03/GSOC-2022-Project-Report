@@ -113,7 +113,7 @@ Completion of this project will help us to increase the frequency of releases if
 10. (https://github.com/sevntu-checkstyle/sevntu.checkstyle/pull/894)
 
 
-## PR's LEFT to complete!
+## PR's left, will be completed before 15th September 2022!
 - releasenotes-builder: update Github template - (https://github.com/checkstyle/contribution/pull/655)
 - releasenotes-builder: avoid extra line wrapping - (https://github.com/checkstyle/contribution/pull/656)
 - failure of update github.io to clone checkstyle.github.io - (https://github.com/checkstyle/checkstyle/pull/12174)
