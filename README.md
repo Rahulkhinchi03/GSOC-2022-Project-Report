@@ -9,6 +9,8 @@
 | :--------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Organisation** | [Checkstyle](https://checkstyle.sourceforge.io/)                                                                                              |
 | **Project Link**      | [Automate Release Process of Checkstyle](https://summerofcode.withgoogle.com/programs/2022/projects/nWt378bQ) |
+| **Topic**       | Automation and Release Process   
+| **Tech Stack**       | Java, Maven, Shell Scripting, Bash Scripting, CI, Git, GitHub Action and API, JUnit, Docker
 | **GitHub**       | [@Rahulkhinchi03](https://github.com/Rahulkhinchi03)                                                                                                     |
 | **LinkedIn**     | [Rahul Khinchi](https://www.linkedin.com/in/rahulkhinchi03/)                                                                                              |
 | **Email**        | <a href="mailto:rahulkhinchirk7@gmail.com">rahulkhinchirk7@gmail.com</a>                                                                                         |
