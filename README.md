@@ -48,18 +48,75 @@ Completion of this project will help us to increase the frequency of releases if
 - Interacted with Mentor to understand the scope of the project.
 - Worked on the skills needed for the Project.
 
+### Sequence Diagram: [Scope.](https://github.com/checkstyle/contribution/blob/master/releasenotes-builder/diagrams.md)
+
 # Work During GSoC coding period
 
-## All PRs
+## June 15 - July 30
+- Automation of the creation of settings.xml - (https://github.com/checkstyle/checkstyle/pull/11743)
+- Automation of the Twitter - (https://github.com/checkstyle/checkstyle/pull/11745)
+- Automation of update of the releasenotes.xml - (https://github.com/checkstyle/checkstyle/pull/11750)
+- Updateing GitHub Action for bump-license-year.sh - (https://github.com/checkstyle/checkstyle/pull/11971)
+- Updateing releasenotes to use GitHub Pages execution - (https://github.com/checkstyle/checkstyle/pull/12009)
+- Automating execution by Github action bump-license-year.sh - (https://github.com/checkstyle/contribution/pull/620) & (https://github.com/sevntu-checkstyle/sevntu.checkstyle/pull/892)
+- releasenotes-builder: fail execution if multiple labels - (https://github.com/checkstyle/contribution/pull/627)
+- Add -generateGitHubPage and - githubpostTemplate arguments - (https://github.com/checkstyle/contribution/pull/628)
 
-## Merged Pull requests in other checkstyle repositories!
-- [sevntu-checkstyle/checkstyle-samples](https://github.com/sevntu-checkstyle/checkstyle-samples/pulls?q=is%3Apr+is%3Amerged+author%3ARahulkhinchi03+)
-- [sevntu-checkstyle/sevntu-checkstyle](https://github.com/sevntu-checkstyle/sevntu.checkstyle/pulls?q=is%3Apr+is%3Amerged+author%3ARahulkhinchi03+)
+#### PR for enchancement!
+- releasenotes script generated empty commit - (https://github.com/checkstyle/checkstyle/pull/11845)
+- prepare-settings.sh fails to create settings.xml - (https://github.com/checkstyle/checkstyle/pull/11785)
+- deleted bump-license-year-in-all-projects.sh - (https://github.com/checkstyle/checkstyle/pull/11905)
+- Remove -PublishXdocWithPush and -PublishXdoc command - (https://github.com/checkstyle/contribution/pull/618)
+
+## August 1 - September 10th
+- created Github action that does version bump and update milestone - (https://github.com/checkstyle/checkstyle/pull/11993)
+- Reuse Plain text release notes from releasenotes-builder - (https://github.com/checkstyle/checkstyle/pull/12007)
+- Adding CheckForVariable function to util.sh - (https://github.com/checkstyle/checkstyle/pull/12022)
+- Enhancements for bump version action - (https://github.com/checkstyle/checkstyle/pull/12062)
+- Github action: Release prepare - (https://github.com/checkstyle/checkstyle/pull/12085)
+- Github action: Update Github milestone and upload '-all' jar - (https://github.com/checkstyle/checkstyle/pull/12094)
+- Github action: Update sources with release notes - (https://github.com/checkstyle/checkstyle/pull/12097)
+- Github action: Publish release notes outside - (https://github.com/checkstyle/checkstyle/pull/12107)
+- Github action: Publish release notes Twitter - (https://github.com/checkstyle/checkstyle/pull/12110)
+- Github Action: Update github.io - (https://github.com/checkstyle/checkstyle/pull/12118)
+- Github action: GitHub Milestone and Upload Jar - (https://github.com/checkstyle/checkstyle/pull/12119)
+
+#### PR for enchancement!
+- tweet-releasenotes.sh should be able to work on start and finish release names - (https://github.com/checkstyle/checkstyle/pull/12069)
+- update all shell scripts for release automation - (https://github.com/checkstyle/checkstyle/pull/12084)
+- rename all release action to have 'R:' prefix in name - (https://github.com/checkstyle/checkstyle/pull/12117)
+- rename update-sources.sh - (https://github.com/checkstyle/checkstyle/pull/12123)
+- Minor changes in in shell scripts - (https://github.com/checkstyle/checkstyle/pull/12125)
+- Github action Release prepare should validate presence of releasenotes.xml - (https://github.com/checkstyle/checkstyle/pull/12127)
+- update publish Twit action to use secrets - (https://github.com/checkstyle/checkstyle/pull/12138)
+- execution of 'R: Update github.io' with '10.3.3' faililng - (https://github.com/checkstyle/checkstyle/pull/12162)
+- updates in Github actions - (https://github.com/checkstyle/checkstyle/pull/12166) & (https://github.com/checkstyle/checkstyle/pull/12167)
+- failure to publish github release notes ' R: Publish GitHub IO - (https://github.com/checkstyle/checkstyle/pull/12178)
+- releasenotes-builder: update Github template to be more compact - (https://github.com/checkstyle/contribution/pull/632)
+- Disable execution of GitHub actions with cron in fork repositories - 
+1. (https://github.com/checkstyle/checkstyle/pull/12176)
+2. (https://github.com/checkstyle/contribution/pull/650)
+3. (https://github.com/sevntu-checkstyle/checkstyle-samples/pull/42)
+4. (https://github.com/sevntu-checkstyle/sevntu.checkstyle/pull/898)
+- satelite projects should use latest checkstyle as soon at is appears in maven repo -
+1. (https://github.com/checkstyle/contribution/pull/635)
+2. (https://github.com/checkstyle/contribution/pull/636)
+3. (https://github.com/checkstyle/contribution/pull/637)
+4. (https://github.com/sevntu-checkstyle/checkstyle-samples/pull/39)
+5. (https://github.com/sevntu-checkstyle/checkstyle-samples/pull/38)
+6. (https://github.com/sevntu-checkstyle/checkstyle-samples/pull/37)
+7. (https://github.com/sevntu-checkstyle/checkstyle-samples/pull/36)
+8. (https://github.com/sevntu-checkstyle/sevntu.checkstyle/pull/896)
+9. (https://github.com/sevntu-checkstyle/sevntu.checkstyle/pull/895)
+10. (https://github.com/sevntu-checkstyle/sevntu.checkstyle/pull/894)
+
 
 ### My overall contribution to Checkstyle!
 
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+is%3Amerged+author%3ARahulkhinchi03+)
 - [checkstyle/contribution](https://github.com/checkstyle/contribution/pulls?q=is%3Apr+is%3Amerged+author%3ARahulkhinchi03+)
+- [sevntu-checkstyle/checkstyle-samples](https://github.com/sevntu-checkstyle/checkstyle-samples/pulls?q=is%3Apr+is%3Amerged+author%3ARahulkhinchi03+)
+- [sevntu-checkstyle/sevntu-checkstyle](https://github.com/sevntu-checkstyle/sevntu.checkstyle/pulls?q=is%3Apr+is%3Amerged+author%3ARahulkhinchi03+)
 - [Issues](https://github.com/checkstyle/checkstyle/issues?q=is%3Aissue+author%3ARahulkhinchi03+)
 
 ### Further steps:
