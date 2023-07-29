@@ -14,7 +14,7 @@
 | **GitHub**       | [@Rahulkhinchi03](https://github.com/Rahulkhinchi03)                                                                                                     |
 | **LinkedIn**     | [Rahul Khinchi](https://www.linkedin.com/in/rahulkhinchi03/)                                                                                              |
 | **Email**        | <a href="mailto:rahulkhinchirk7@gmail.com">rahulkhinchirk7@gmail.com</a>                                                                                         |
-| **Twitter**      | [rahulkhinchi_7](https://twitter.com/rahhulk7)                                                                   |
+| **Twitter**      | [rahhulk7](https://twitter.com/rahhulk7)                                                                   |
 
 # About Me
  I’m a Rising Junior pursuing my bachelor's in Computer Science & Engineering. I will be graduating in 2024. My aim is to become a T-Shaped Developer (Design, Develop, Test, Deploy). I am leading technical communities like GitHub Campus Expert, Microsoft Learn Student Ambassadors, and Google Developers Student Club.
